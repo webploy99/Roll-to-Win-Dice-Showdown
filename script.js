@@ -15,8 +15,6 @@ var iconInfo = appIcon;
 document.getElementById('iconLarge').src = iconInfo.icon;
 document.getElementById('iconSmall').src = iconInfo.icon;
 
-
-
 // ======== get images URL ========
 imageUrl = {
   appImg1:
